@@ -1,0 +1,37 @@
+{
+  "name": "Mohsin Mukhtiar",
+  "bio": "BI Developer | Medium Writer | Data Analyst | Data Professional",
+  "tags": ["Power BI (DAX)", "SSRS", "Python", "SQL", "Data Warehouse", "Machine Learning", "Power Platform"],
+  "links": [
+    {
+      "name": "Follow me on Twitter",
+      "url": "https://twitter.com/RaoMohsin54",
+      "icon": "FaTwitter"
+    },
+    {
+      "name": "Follow me on LinkedIn",
+      "url": "https://www.linkedin.com/in/mohsin-mukhtiar/",
+      "icon": "FaLinkedin"
+    },
+    {
+      "name": "Portfolio Website",
+      "url": "https://raomohsin54.github.io/Website/",
+      "icon": "FaWebsite"
+    },
+    {
+      "name": "Follow me on GitHub. Let's build together!",
+      "url": "https://github.com/raomohsin54/Projects",
+      "icon": "FaGithub"
+    },
+    {
+      "name": "Follow me here for blogging about datascience and machine learning",
+      "url": "https://medium.com/@rao.mohsin.54",
+      "icon": "FaMedium"
+    },
+    {
+      "name": "PandasAI and Streamlit: Ask Your Data Anything with Natural Language Processing",
+      "url": "https://raomohsin54-projects-sales-app-i6zzym.streamlit.app/",
+      "icon": "FaSalesAnalysisApp"
+    }
+  ]
+}
